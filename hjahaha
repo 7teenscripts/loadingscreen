@@ -1,4 +1,4 @@
--- Create ScreenGui
+p-- Create ScreenGui
 local screenGui = Instance.new("ScreenGui")
 screenGui.Name = "RayfieldLoadingScreen"
 screenGui.IgnoreGuiInset = true
